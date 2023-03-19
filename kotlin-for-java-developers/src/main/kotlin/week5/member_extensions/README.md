@@ -1,0 +1,2 @@
+# Member extensions
+Implement member extension functions 'record' and 'unaryPlus' so that the code below compiled and stored specified words. These functions should be unavailable outside of the 'Words' class.

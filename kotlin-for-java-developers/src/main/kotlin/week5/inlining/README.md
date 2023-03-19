@@ -1,0 +1,2 @@
+# Inlining of the 'filter' function
+Write the code that the Kotlin compiler will generate while inlining the filter function (instead of calling it). Note that the compiler generates Java bytecode, but for simplicity, write the similar code in Kotlin. The simplified declaration of 'filter' is given below.

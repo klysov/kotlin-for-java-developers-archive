@@ -1,0 +1,2 @@
+# Using lateinit property
+Without modifying the class 'A' complete the code in 'main' so that an exception UninitializedPropertyAccessException was thrown. Then fix the newly added code in 'main' so that no exception was thrown.
