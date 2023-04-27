@@ -1,6 +1,6 @@
 package two_fer
 
-import org.junit.Test
+import kotlin.test.Test
 import kotlin.test.assertEquals
 
 class TwoFerTest {

@@ -1,6 +1,6 @@
 package hello_world
 
-import org.junit.Test
+import kotlin.test.Test
 import kotlin.test.assertEquals
 
 class HelloWorldTest {
